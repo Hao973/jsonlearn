@@ -1,0 +1,17 @@
+{
+	"adplaces":
+	[
+		{
+			"str_itemspaceid": "12224",
+			"i_width": 320,
+			"i_height": 640
+		},
+		{
+			"str_itemspaceid": "12225",
+			"i_width": 325,
+			"i_height": 645
+		}
+	],
+	"i_apt": 0,
+	"str_ip": "10.1.23.12"	
+}
